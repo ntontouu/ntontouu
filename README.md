@@ -28,8 +28,8 @@
 Here is a selection of my key repositories spanning machine learning, networking, and systems:
 
 * 📊 **[Statistical-ML](https://github.com/ntontouu/Statistical-ML):** Naive Bayes classification implementations with custom datasets and utilities.
-* 🐍 **[Concepts-of-Programming-Languages](https://github.com/ntontouu/Concepts-of-Programming-Languages):** 4th-semester lab exercises exploring Python and Haskell paradigms -> https://lnkd.in/dZpQRWy5
-* 📈 **[Data-Mining](https://github.com/ntontouu/Data-Mining):** Machine learning classification algorithms (Decision Trees, k-NN) for data analysis -> https://lnkd.in/dYnNdNRS
+* 🐍 **[Concepts-of-Programming-Languages](https://github.com/ntontouu/Concepts-of-Programming-Languages):** 4th-semester lab exercises exploring Python and Haskell paradigms.
+* 📈 **[Data-Mining](https://github.com/ntontouu/Data-Mining):** Machine learning classification algorithms (Decision Trees, k-NN) for data analysis.
 * ⚙️ **[OOP](https://github.com/ntontouu/OOP):** Advanced C++ projects demonstrating Object-Oriented Programming, POSIX IPC, and Job Shop Scheduling.
 
 ---
