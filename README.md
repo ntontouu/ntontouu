@@ -28,9 +28,8 @@
 Here is a selection of my key repositories spanning machine learning, networking, and systems:
 
 * 📊 **[Statistical-ML](https://github.com/ntontouu/Statistical-ML):** Naive Bayes classification implementations with custom datasets and utilities.
-* 📡 **[Wireless-Sensor-Networks](https://github.com/ntontouu/Wireless-Sensor-Networks):** Low-power wireless sensor nodes using ESP32-C6, DHT11, and ESP-NOW.
-* 🧮 **[Linear-Algebra](https://github.com/ntontouu/Linear-Algebra):** Custom matrix inversion, LU factorization with pivoting, and linear system solvers in Octave/MATLAB.
-* 🔒 **[Systems-Security](https://github.com/ntontouu/Systems-Security):** File encryption/decryption and hashing algorithms (MD5, SHA1, SHA256, SHA3-256).
+* 🐍 **[Concepts-of-Programming-Languages](https://github.com/ntontouu/Concepts-of-Programming-Languages):** 4th-semester lab exercises exploring Python and Haskell paradigms -> https://lnkd.in/dZpQRWy5
+* 📈 **[Data-Mining](https://github.com/ntontouu/Data-Mining):** Machine learning classification algorithms (Decision Trees, k-NN) for data analysis -> https://lnkd.in/dYnNdNRS
 * ⚙️ **[OOP](https://github.com/ntontouu/OOP):** Advanced C++ projects demonstrating Object-Oriented Programming, POSIX IPC, and Job Shop Scheduling.
 
 ---
