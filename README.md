@@ -4,7 +4,7 @@
 - 💻 **Computer Science student & Researcher**, passionate about building intelligent systems and efficient software.
 - 🔬 Focused on exploring advanced technologies, software development, and modern engineering practices.
 - 🚀 Driven by curiosity, continuous learning, and a constant desire to turn complex challenges into clean, effective code solutions.
-- 🏊‍♀️ Athleticism & Discipline: Practicing competitive swimming and endurance, believing that consistency builds mastery.
+- 🏊‍♀️ **Athleticism & Discipline:** Practicing competitive swimming and endurance, believing that consistency builds mastery.
 
 ---
 
@@ -35,7 +35,7 @@ Here is a selection of my key repositories spanning machine learning, networking
 ---
 
 ## 📫 Connect with me
-* 💼 **LinkedIn:** [Maria Alexandra Ntoutou]([https://www.linkedin.com](https://www.linkedin.com/in/%CE%BC%CE%B1%CF%81%CE%AF%CE%B1-%CE%B1%CE%BB%CE%B5%CE%BE%CE%AC%CE%BD%CE%B4%CF%81%CE%B1-%CE%BD%CF%84%CF%8C%CE%BD%CF%84%CE%BF%CF%85-2aa289289/))
+* 💼 **LinkedIn:** [Μαρία - Αλεξάνδρα Ντόντου]([https://www.linkedin.com](https://www.linkedin.com/in/%CE%BC%CE%B1%CF%81%CE%AF%CE%B1-%CE%B1%CE%BB%CE%B5%CE%BE%CE%AC%CE%BD%CE%B4%CF%81%CE%B1-%CE%BD%CF%84%CF%8C%CE%BD%CF%84%CE%BF%CF%85-2aa289289/))
 * 📸 **Instagram:** [@ntontouu](https://www.instagram.com/ntontouu)
-* 📘 **Facebook:** [Maria Alexandra Ntoutou]([https://www.facebook.com](https://www.facebook.com/ntontou))
+* 📘 **Facebook:** [Maria Alexandra Ntountou]([https://www.facebook.com](https://www.facebook.com/ntontou))
 * 🐙 **GitHub:** [@ntontouu](https://github.com/ntontouu)
