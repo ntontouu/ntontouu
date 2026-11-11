@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Maria Alexandra Ntoutou
+# 👋 Hi, I’m Maria Alexandra Ntountou
 
 ## 🚀 About me
 - 💻 **Computer Science student & Researcher**, passionate about building intelligent systems and efficient software.
